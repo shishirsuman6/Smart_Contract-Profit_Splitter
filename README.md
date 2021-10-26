@@ -5,6 +5,7 @@ Solidity, Remix, Ganache, MetaMask
 ### how each of the contracts work:  
 This contract would Pay your Associate-level employees quickly and easily.
 
+
 ### how you send transactions:  
 This contract was deployed using Remix via MetaMask localhost Test accounts created with Ganache:
 
@@ -13,6 +14,8 @@ This contract was deployed using Remix via MetaMask localhost Test accounts crea
 ![image](https://user-images.githubusercontent.com/51159089/138876218-1e4768b1-500a-4ddd-a4fd-de2b6ef0027e.png)
 
 ![image](https://user-images.githubusercontent.com/51159089/138876296-bdf163db-667a-417b-8b13-df1065521d3f.png)
+
+![image](https://user-images.githubusercontent.com/51159089/138876902-98c797a4-90ab-478a-b87e-85dcd65bb3b0.png)
 
 
 ### how the transferred amount is then distributed by each of the contracts:  
